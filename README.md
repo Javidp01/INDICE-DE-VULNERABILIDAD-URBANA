@@ -1,2 +1,2 @@
 # INDICE-DE-VULNERABILIDAD-URBANA
-Script que genera el índice de vulnerabilidad urbana para cualquier municipio de España, utilizando para ello datos geoespaciales y alfanuméricos del Catastro.
+Este script genera el índice de vulnerabilidad urbana para cualquier municipio de España, utilizando datos geoespaciales y alfanuméricos del Catastro. Actualmente, el código está configurado para procesar los datos del municipio de Alcalá de Henares. Si deseas generar el índice de vulnerabilidad para otro municipio, es necesario modificar los datos de entrada tanto alfanuméricos como geoespaciales.
